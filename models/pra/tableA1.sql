@@ -6,5 +6,5 @@ select 'zubdah' as name1, '123' AS name2
 union all
 select 'rayyan' as name1, '123' AS name2
 union all
-select 'Sai' as name1,
+select 'Harshal' as name1,
 '123' AS name2
