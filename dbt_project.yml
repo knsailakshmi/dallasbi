@@ -40,4 +40,6 @@ models:
       +schema: dbt_skn
     prb:
       +schema: dbt_bkn
+    prc:
+      +schema: dbt_ckn
     
