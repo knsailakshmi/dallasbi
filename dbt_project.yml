@@ -42,4 +42,5 @@ models:
       +schema: dbt_bkn
     prc:
       +schema: dbt_ckn
-    
+    transactions:
+      +schema: ecommerce_schema
