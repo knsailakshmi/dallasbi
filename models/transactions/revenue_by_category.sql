@@ -9,8 +9,7 @@ WITH revenue_by_category AS (
   FROM ecommerce_schema.transactions
   GROUP BY category
 )
-
 SELECT
   category,
   total_revenue
-FROM revenue_by_category;
+FROM revenue_by_category
