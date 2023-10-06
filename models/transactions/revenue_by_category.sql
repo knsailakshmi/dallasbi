@@ -1,4 +1,4 @@
--- models/revenue_by_category.sql
+-- models/revenue_by_category
 
 {{ config(materialized='table') }}
 
